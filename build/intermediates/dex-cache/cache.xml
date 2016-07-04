@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/user/Desktop/StudioDemoProjects/YouTubeAPIDemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/home/user/Desktop/StudioDemoProjects/YouTubeAPIDemo/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-d899c240ad96423d2532693322007d634a02e8ea.jar" />
+    </item>
+    <item
+        jar="/home/user/Desktop/StudioDemoProjects/YouTubeAPIDemo/app/libs/YouTubeAndroidPlayerApi.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3c4f96ff493456651cc7bdb0b47e10eb25545a16">
+        <dex dex="/home/user/Desktop/StudioDemoProjects/YouTubeAPIDemo/app/build/intermediates/pre-dexed/debug/YouTubeAndroidPlayerApi-cd6e7e3e17ed04b1163d5c71f60203d91ede564c.jar" />
+    </item>
+    <item
+        jar="/home/user/Desktop/StudioDemoProjects/YouTubeAPIDemo/app/build/intermediates/exploded-aar/YouTubeAPIDemo/volley/unspecified/jars/libs/okio-1.1.0 .jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="14c2bedd59eccab85f1b8fe1f0f26fad14951b91">
+        <dex dex="/home/user/Desktop/StudioDemoProjects/YouTubeAPIDemo/app/build/intermediates/pre-dexed/debug/okio-1.1.0 -0fea3ba5f3e512813daa9d5b02d1f50deda460bc.jar" />
+    </item>
+    <item
+        jar="/home/user/Desktop/StudioDemoProjects/YouTubeAPIDemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/home/user/Desktop/StudioDemoProjects/YouTubeAPIDemo/app/build/intermediates/pre-dexed/debug/classes-b0bcb505e063e7fee0ed3db04d4091440ff7d9c5.jar" />
+    </item>
+    <item
+        jar="/home/user/Desktop/StudioDemoProjects/YouTubeAPIDemo/app/libs/picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/home/user/Desktop/StudioDemoProjects/YouTubeAPIDemo/app/build/intermediates/pre-dexed/debug/picasso-2.5.2-06726c7e40025b05217892ad665a1dcf788539d4.jar" />
+    </item>
+    <item
+        jar="/home/user/Desktop/StudioDemoProjects/YouTubeAPIDemo/app/build/intermediates/exploded-aar/YouTubeAPIDemo/volley/unspecified/jars/libs/okhttp-urlconnection-2.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6025b7df8a6a4193138723ef120e7228b6a97024">
+        <dex dex="/home/user/Desktop/StudioDemoProjects/YouTubeAPIDemo/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-2.1.0-98579a490b30400c8e7f419eaacf16d877353e93.jar" />
+    </item>
+    <item
+        jar="/home/user/Desktop/StudioDemoProjects/YouTubeAPIDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/home/user/Desktop/StudioDemoProjects/YouTubeAPIDemo/app/build/intermediates/pre-dexed/debug/classes-c9bd7ec6e078a20c7603e3fdecadaaac11eae424.jar" />
+    </item>
+    <item
+        jar="/home/user/AndroidTools/adt-bundle-linux-x86_64-20140702/android-sdk-linux/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/home/user/Desktop/StudioDemoProjects/YouTubeAPIDemo/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1-0d830279e58f18dc429530dd6e6b1ea881ed038d.jar" />
+    </item>
+    <item
+        jar="/home/user/Desktop/StudioDemoProjects/YouTubeAPIDemo/app/build/intermediates/exploded-aar/YouTubeAPIDemo/volley/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="faef0d09f33743d899fbb4adb7f62ed50df41d04">
+        <dex dex="/home/user/Desktop/StudioDemoProjects/YouTubeAPIDemo/app/build/intermediates/pre-dexed/debug/classes-22fa5a420f80511cea60ea584e8ea22d3a0ae170.jar" />
+    </item>
+    <item
+        jar="/home/user/Desktop/StudioDemoProjects/YouTubeAPIDemo/app/build/intermediates/exploded-aar/YouTubeAPIDemo/volley/unspecified/jars/libs/okhttp-2.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="9b51f7d0c19f179b52beab7cb433f8ba5cf786a4">
+        <dex dex="/home/user/Desktop/StudioDemoProjects/YouTubeAPIDemo/app/build/intermediates/pre-dexed/debug/okhttp-2.1.0-5f364e08f8465b2b5b7c0de2e7e069c6a6d0392e.jar" />
+    </item>
+    <item
+        jar="/home/user/Desktop/StudioDemoProjects/YouTubeAPIDemo/app/build/intermediates/exploded-aar/com.android.support/design/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e5c61a3169221a89654ffcaaed47bba51cf071ad">
+        <dex dex="/home/user/Desktop/StudioDemoProjects/YouTubeAPIDemo/app/build/intermediates/pre-dexed/debug/classes-14e297539632b17d1187cd6715172f8014ecbad3.jar" />
+    </item>
+
+</items>

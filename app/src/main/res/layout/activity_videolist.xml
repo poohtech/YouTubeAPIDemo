@@ -1,0 +1,47 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:id="@+id/relHeader"
+        android:layout_width="fill_parent"
+        android:layout_height="50dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Video List"
+            android:textColor="#ffffff"
+            android:textSize="18sp" />
+    </RelativeLayout>
+
+    <!--  <ImageView
+          android:id="@+id/topimage"
+          android:layout_width="fill_parent"
+          android:layout_height="300dp"
+          android:layout_alignParentTop="true"
+          android:layout_below="@+id/relHeader"
+          android:scaleType="fitXY"
+          android:src="@drawable/swamihimanshuimage" />
+  -->
+    <ListView
+        android:id="@+id/list_item"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentTop="true"
+        android:layout_below="@+id/relHeader"
+        android:layout_marginBottom="5dp"
+        android:divider="#adad85"
+        android:dividerHeight="1dp" />
+
+    <ProgressBar
+        android:id="@+id/progressBar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:background="#000000"
+        android:visibility="gone" />
+
+
+</RelativeLayout>
